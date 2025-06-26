@@ -1,0 +1,10 @@
+torch
+transformers
+bitsandbytes
+accelerate
+
+matplotlib
+ipywidgets
+gradio
+pandas
+scikit-learn
